@@ -1,0 +1,6 @@
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\mati\source\repos\BeClever-GeneradorDePedidos\CapaEntidades\obj\Debug\CapaEntidades.pdb
